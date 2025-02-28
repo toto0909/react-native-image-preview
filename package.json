@@ -1,0 +1,27 @@
+{
+  "name": "react-native-image-preview",
+  "version": "1.0.0",
+  "description": "Lightweight image preview component for React Native &amp; Expo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toto0909/react-native-image-preview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toto0909/react-native-image-preview/issues"
+  },
+  "homepage": "https://github.com/toto0909/react-native-image-preview#readme",
+  "dependencies": {
+    "@types/react": "^19.0.10",
+    "@types/react-native": "^0.73.0",
+    "react": "^19.0.0",
+    "react-native": "^0.78.0",
+    "typescript": "^5.8.2"
+  }
+}
